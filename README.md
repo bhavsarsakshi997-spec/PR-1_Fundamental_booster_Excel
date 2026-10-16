@@ -63,21 +63,21 @@ The project covers the following Excel concepts:
 
 > **Note:** Some functions, such as `XLOOKUP`, `XMATCH`, and `FILTER`, require a compatible version of Microsoft Excel or another spreadsheet application that supports them.
 
-## Screenshots
 
-Add your own screenshots in the `screenshots` folder and keep the filenames below, or update the image paths to match your filenames. Screenshots help show the original instructions, worksheet data, formulas, and final results.
+## 📸 Project Screenshots
 
-### Students Grade Worksheet
+### 1. Students Grade Sheet – Part 1
+![Students Grade Sheet Part 1](screenshots/students-grade-1.png)
 
-![Students Grade Worksheet](screenshots/students-grade.png)
+### 2. Students Grade Sheet – Part 2
+![Students Grade Sheet Part 2](screenshots/students-grade-2.png)
 
-### Sales Data Worksheet
+### 3. Sales Data Sheet
+![Sales Data](screenshots/sales-data.png)
 
-![Sales Data Worksheet](screenshots/sales-data.png)
+### 4. Employee Data Sheet
+![Employee Data](screenshots/employee-data.png)
 
-### Employee Data Worksheet
-
-![Employee Data Worksheet](screenshots/employee-data.png)
 
 
 ## How to Use
@@ -89,6 +89,9 @@ Add your own screenshots in the `screenshots` folder and keep the filenames belo
 5. Enter or adjust formulas where required by the task instructions.
 6. Verify that results update correctly when source data changes.
 7. Capture screenshots of the completed worksheets and place them in the `screenshots` folder.
+
+## Excel project structure:
+<img width="1536" height="1024" alt="excal" src="https://github.com/user-attachments/assets/4cd5dd24-abe5-465c-956f-a03215af1cd2" />
 
 ## Tools Used
 
