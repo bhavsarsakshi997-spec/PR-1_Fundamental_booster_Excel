@@ -67,16 +67,20 @@ The project covers the following Excel concepts:
 ## 📸 Project Screenshots
 
 ### 1. Students Grade Sheet – Part 1
-![Students Grade Sheet Part 1](screenshots/students-grade-1.png)
+![Students Grade Sheet Part 1](<img width="1145" height="685" alt="Screenshot 2026-10-16 110716" src="https://github.com/user-attachments/assets/5697cced-a5c1-4329-b6f1-4135ced19371" />
+)
 
 ### 2. Students Grade Sheet – Part 2
-![Students Grade Sheet Part 2](screenshots/students-grade-2.png)
+![Students Grade Sheet Part 2](<img width="1081" height="358" alt="Screenshot 2026-10-16 110737" src="https://github.com/user-attachments/assets/a7370757-f01c-4e52-b9f4-6f7ca1d59b2a" />
+)
 
 ### 3. Sales Data Sheet
-![Sales Data](screenshots/sales-data.png)
+![Sales Data]()<img width="1057" height="680" alt="Screenshot 2026-10-16 111116" src="https://github.com/user-attachments/assets/fb1c6982-d067-4792-a500-c43a3669a026" />
+
 
 ### 4. Employee Data Sheet
-![Employee Data](screenshots/employee-data.png)
+![Employee Data](![Uploading Screenshot 2026-10-16 111433.png…]()
+)
 
 
 
