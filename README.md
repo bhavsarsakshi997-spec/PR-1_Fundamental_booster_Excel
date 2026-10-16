@@ -75,7 +75,7 @@ The project covers the following Excel concepts:
 
 
 ### 3. Sales Data Sheet
-![Sales Data]()<img width="1057" height="680" alt="Screenshot 2026-10-16 111116" src="https://github.com/user-attachments/assets/fb1c6982-d067-4792-a500-c43a3669a026" />
+![Sales Data]<img width="1057" height="680" alt="Screenshot 2026-10-16 111116" src="https://github.com/user-attachments/assets/fb1c6982-d067-4792-a500-c43a3669a026" />
 
 
 ### 4. Employee Data Sheet
