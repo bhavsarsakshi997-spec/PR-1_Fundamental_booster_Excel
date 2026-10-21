@@ -21,7 +21,8 @@ A hands-on Microsoft Excel workbook that demonstrates core-to-intermediate Excel
 
 ---
 
-## ![1. Project Overview](https://img.shields.io/badge/1.%20Project%20Overview-00A86B?style=for-the-badge)
+## ![1. Project Overview] <img width="1057" height="680" alt="Screenshot 2026-10-16 111116" src="https://github.com/user-attachments/assets/0d14b33d-a8d3-4fb4-adaf-d1d397000d3d" />
+
 
 | Item | Details |
 |---|---|
@@ -70,7 +71,8 @@ The workbook uses a **three-colour convention** so a reader can tell what each c
 
 ## ![4. Sheet 1: Students Grade](https://img.shields.io/badge/4.%20Sheet%201%3A%20Students%20Grade-C0392B?style=for-the-badge)
 
-![Students Grade sheet output](images/students-grade.png)
+![Students Grade sheet output] <img width="1145" height="685" alt="Screenshot 2026-10-16 110716" src="https://github.com/user-attachments/assets/d33de84a-833a-47aa-8234-ab9776d92294" />
+
 
 ### ![4.1 Data dictionary](https://img.shields.io/badge/4.1%20Data%20dictionary-7030A0?style=flat)
 
@@ -145,7 +147,8 @@ Result **19** (only Student 9 scored 41).
 
 ## ![5. Sheet 2: Sales Data](https://img.shields.io/badge/5.%20Sheet%202%3A%20Sales%20Data-16A085?style=for-the-badge)
 
-![Sales Data sheet output](images/sales-data.png)
+![Sales Data sheet output] <img width="1057" height="680" alt="Screenshot 2026-10-16 111116" src="https://github.com/user-attachments/assets/18cb7632-b76e-44f3-8c09-f04821972fbd" />
+
 
 ### ![5.1 Data dictionary](https://img.shields.io/badge/5.1%20Data%20dictionary-00A86B?style=flat)
 
@@ -212,7 +215,9 @@ Observed behaviour: **all South-region sales are Eligible** (even small ones lik
 
 ## ![6. Sheet 3: Employee Data](https://img.shields.io/badge/6.%20Sheet%203%3A%20Employee%20Data-8E44AD?style=for-the-badge)
 
-![Employee Data sheet output](images/employee-data.png)
+![Employee Data sheet output] <img width="1917" height="690" alt="Screenshot 2026-10-16 111433" src="https://github.com/user-attachments/assets/615f4da9-ff8c-45d8-9b96-0977a639bef1" />
+
+
 
 ### ![6.1 Data dictionary](https://img.shields.io/badge/6.1%20Data%20dictionary-E67E22?style=flat)
 
