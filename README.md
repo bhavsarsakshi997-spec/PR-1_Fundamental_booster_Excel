@@ -342,3 +342,6 @@ excel-fundamentals-project/
     ├── sales-data.png
     └── employee-data.png
 ```
+
+### ![Video link] https://drive.google.com/file/d/18ARk4pundYd4_cnNk7-p-LMekeVAnUl4/view?usp=drive_link
+
